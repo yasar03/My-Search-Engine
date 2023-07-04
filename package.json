@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "repository": "https://github.com/yasar03/My-Search-Engine.git",
   "scripts": {
-    "start": "node app.js", 
-    "build": "npm i"
+    "start": "node app.js"
   },
   
   "author": "",
